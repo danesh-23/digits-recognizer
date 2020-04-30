@@ -26,7 +26,7 @@ Thats it for now. Try improving it to predict on your own handwritten digits :th
 
 ## A little about this project
 
-I started working on this project further along my journey of basic machine learning, on my way to learning deep neural networks. So, I decided to try the classic detect MNIST digits challenge which arguably every data scientist has worked on at some point of learning neural networks. I have many ideas to expand this project such as by allowing it to accept images outside of the MNIST dataset and give the user more options in their choice of images and also to improve the current accuracy rate of 99.1% by fine tuning some hyper-parameters and adding/removing layers to hopefully get it up to 99.5-6 :crossed_fingers:
+I started working on this project further along my journey of basic machine learning, on my way to learning deep neural networks. So, I decided to try the classic detect MNIST digits challenge which arguably every data scientist has worked on at some point of learning neural networks. I have many ideas to expand this project such as by allowing it to accept images outside of the MNIST dataset and give the user more options in their choice of images and also to improve the current accuracy rate of 99.1% by fine tuning some hyper-parameters and adding/removing layers to hopefully get it up to 99.5-6%  :crossed_fingers:
 
 ## Reporting Bugs
 
